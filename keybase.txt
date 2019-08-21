@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/epfforce
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://epfforce.me
+  * I am epfforce (https://keybase.io/epfforce) on keybase.
+  * I have a public key ASCUKjMTN5-nHt-5u6lljEjh5MaSynH9AOI0551Th1DNtAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120942a3313379fa71edfb9bba9658c48e1e4c692ca71fd00e234e79d538750cdb40a",
+      "host": "keybase.io",
+      "kid": "0120942a3313379fa71edfb9bba9658c48e1e4c692ca71fd00e234e79d538750cdb40a",
+      "uid": "258d20fdf6e523160c9f1299c5a2a519",
+      "username": "epfforce"
+    },
+    "merkle_root": {
+      "ctime": 1566384853,
+      "hash": "81ad5f5e0df04b96666a80f31d4aa4945bc86a529a9155ee92a712286af016dfc03f0b2e48fa51142615b5a205e9def259d0dc592ae6de6e55ec87e2af751b27",
+      "hash_meta": "c8d88c9bec853676fc8c3aa97a7fe814a6da5402f2928b85eb6443acd76fec75",
+      "seqno": 6063975
+    },
+    "service": {
+      "entropy": "cESE/PgW1tD+szThg02248DV",
+      "hostname": "epfforce.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.0"
+  },
+  "ctime": 1566385026,
+  "expire_in": 504576000,
+  "prev": "d44930cbed1eb4a020ae9c0d12fc55355c2633073cef7babe372d4ac771edf96",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglCozEzefpx7fubupZYxI4eTGkspx/QDiNOedU4dQzbQKp3BheWxvYWTESpcCBMQg1Ekwy+0etKAgrpwNEvxVNVwmMwc873ur43LUrHce35bEIGHOIbLZYqsNNPmP/EZYquVD7SMNHrjDzYjCH5MHx980AgHCo3NpZ8RAEUv5cOBS8mezniHn+3lOfYOU0iyIUHnWkbn9Y3pjc9v1LFMcNy85vkUIMD924kyvtbP4CVLl3ym/bwn4nGFKBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGMjmusIpLscXZSZk6CD5gBOjt5OCB3DF2mkk0Y+9c1qo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/epfforce
+
+==================================================================
